@@ -284,7 +284,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #a0a0a0;
 }
 
 .floating-label-form-group input,
