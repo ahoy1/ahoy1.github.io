@@ -42,7 +42,7 @@ hr.bar-primary {
 
 hr.bar-light:after,
 hr.bar-primary:after {
-    content: "\f005";
+    content: "\f121";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -251,6 +251,15 @@ section.success {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+#about h3, #about ul li {
+    text-align: center;
+}
+
+#about ul{
+    list-style-type: none;
+    padding: 0;
 }
 
 .btn-outline {
